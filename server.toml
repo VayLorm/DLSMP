@@ -21,6 +21,7 @@ auto_update = false
 [options]
 success_line = ""
 stop_command = ""
+upload_to_mclogs = false
 
 [[mods]]
 type = "modrinth"
