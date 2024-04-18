@@ -293,3 +293,8 @@ version = "8laViGRS"
 type = "modrinth"
 id = "fabrictailor"
 version = "MNgY2xFj"
+
+[[mods]]
+type = "modrinth"
+id = "emotecraft"
+version = "NFPdxMt9"
