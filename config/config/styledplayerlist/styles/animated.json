@@ -1,0 +1,89 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 2,
+  "list_header": {
+    "change_rate": 1,
+    "values": [
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.1><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.2><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.3><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.4><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.5><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.6><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.7><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<gradient:#f79300:#df2421>Dikoland 2</gradient>",
+        "<rb:1:1:0.8><bold>Extra Cool Mods Edition</bold></rb>",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ]
+    ]
+  },
+  "list_footer": [
+    "",
+    "<color:#555555>          <strikethrough>                          </strikethrough>          </color>",
+    "",
+    "  <gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Пинг: <color:#ffba26>%player:ping%</color> <dark_gray>|</dark_gray> <gray>Наиграно: <yellow>%player:playtime%</yellow>  ",
+    ""
+  ],
+  "hidden_in_commands": false
+}

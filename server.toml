@@ -7,22 +7,13 @@ loader = "latest"
 installer = "latest"
 
 [variables]
-PORT = "25565"
 MOTD = ":3"
+PORT = "25565"
 
 [launcher]
 eula_args = true
 nogui = true
 memory = "4G"
-
-[markdown]
-files = ["README.md"]
-auto_update = false
-
-[options]
-success_line = ""
-stop_command = ""
-upload_to_mclogs = false
 
 [[mods]]
 type = "modrinth"
@@ -298,3 +289,20 @@ version = "MNgY2xFj"
 type = "modrinth"
 id = "emotecraft"
 version = "NFPdxMt9"
+
+[[mods]]
+type = "modrinth"
+id = "styledplayerlist"
+version = "4FqvobxB"
+
+[[mods]]
+type = "modrinth"
+id = "styled-chat"
+version = "7dmapSQA"
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]
+upload_to_mclogs = false
