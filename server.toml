@@ -1,0 +1,293 @@
+name = "DLSMP"
+mc_version = "1.20.1"
+
+[jar]
+type = "fabric"
+loader = "latest"
+installer = "latest"
+
+[variables]
+PORT = "25565"
+
+[launcher]
+eula_args = true
+nogui = true
+memory = "4G"
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]
+success_line = ""
+stop_command = ""
+
+[[mods]]
+type = "modrinth"
+id = "vSEH1ERy"
+version = "gBP1GqtK"
+
+[[mods]]
+type = "modrinth"
+id = "WwbubTsV"
+version = "KMOzdYko"
+
+[[mods]]
+type = "modrinth"
+id = "uXXizFIs"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "fQEb0iXm"
+version = "jiDwS0W1"
+
+[[mods]]
+type = "modrinth"
+id = "nmDcB62a"
+version = "1FrMon6Q"
+
+[[mods]]
+type = "modrinth"
+id = "VSNURh3q"
+version = "T5Pkyhit"
+
+[[mods]]
+type = "modrinth"
+id = "P7dR8mSH"
+version = "YblXfKtI"
+
+[[mods]]
+type = "modrinth"
+id = "gvQqBUqZ"
+version = "ZSNsJrPI"
+
+[[mods]]
+type = "modrinth"
+id = "4WWQxlQP"
+version = "RjHT254T"
+
+[[mods]]
+type = "modrinth"
+id = "H8CaAYZC"
+version = "XGIsoVGT"
+
+[[mods]]
+type = "modrinth"
+id = "wnEe9KBa"
+version = "sV8lIBhJ"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-api"
+version = "k1OTLc33"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-mineshafts"
+version = "qLnQnqXS"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-dungeons"
+version = "bSSS84Op"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-ocean-monuments"
+version = "4c00pjbt"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-nether-fortresses"
+version = "FL88RLRu"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-strongholds"
+version = "yV6hn0bB"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-witch-huts"
+version = "lYpHN3iF"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-desert-temples"
+version = "1Z9HNWpj"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-jungle-temples"
+version = "KrGANMei"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-better-end-island"
+version = "qJTsmyiE"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-bridges"
+version = "hvfjXu8d"
+
+[[mods]]
+type = "modrinth"
+id = "yungs-extras"
+version = "pfVTUz1L"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "J3FLptsi"
+
+[[mods]]
+type = "modrinth"
+id = "copycats"
+version = "jjhScGWs"
+
+[[mods]]
+type = "modrinth"
+id = "create-steam-n-rails"
+version = "4VzunVEQ"
+
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "WbL7MStR"
+
+[[mods]]
+type = "modrinth"
+id = "bellsandwhistles"
+version = "m0GUubvz"
+
+[[mods]]
+type = "modrinth"
+id = "create-fabric"
+version = "h2HgGyvA"
+
+[[mods]]
+type = "modrinth"
+id = "create-structures"
+version = "nqsTHZwx"
+
+[[mods]]
+type = "modrinth"
+id = "create-track-map"
+version = "qoyYyg2G"
+
+[[mods]]
+type = "modrinth"
+id = "create-bitterballen"
+version = "re9aylPu"
+
+[[mods]]
+type = "curserinth"
+id = "mod__create-dreams-desires"
+version = "5265603"
+
+[[mods]]
+type = "modrinth"
+id = "create-enchantment-industry-fabric"
+version = "SI0RzkGk"
+
+[[mods]]
+type = "modrinth"
+id = "create-power-loader-fabric"
+version = "Q5q7SSeu"
+
+[[mods]]
+type = "modrinth"
+id = "create-deco"
+version = "TVEbvaBf"
+
+[[mods]]
+type = "modrinth"
+id = "create-goggles"
+version = "ruyz085C"
+
+[[mods]]
+type = "modrinth"
+id = "create-ore-excavation"
+version = "jmSBgUUD"
+
+[[mods]]
+type = "modrinth"
+id = "extended-cogwheels"
+version = "22pR1H3P"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-language-kotlin"
+version = "ZMokinzs"
+
+[[mods]]
+type = "modrinth"
+id = "interiors"
+version = "7QGvBpZU"
+
+[[mods]]
+type = "modrinth"
+id = "carpet"
+version = "K0Wj117C"
+
+[[mods]]
+type = "modrinth"
+id = "carpet-tis-addition"
+version = "dmVZUIkT"
+
+[[mods]]
+type = "modrinth"
+id = "carpet-extra"
+version = "gPJoJ3mr"
+
+[[mods]]
+type = "modrinth"
+id = "discarpet"
+version = "HriUQYyS"
+
+[[mods]]
+type = "modrinth"
+id = "cc-tweaked"
+version = "8mNelbCW"
+
+[[mods]]
+type = "modrinth"
+id = "cccbridge"
+version = "57pJUQQM"
+
+[[mods]]
+type = "modrinth"
+id = "turtlematic"
+version = "LXX6DWrf"
+
+[[mods]]
+type = "modrinth"
+id = "peripheralium"
+version = "wYmP8eyh"
+
+[[mods]]
+type = "modrinth"
+id = "beans-backpacks"
+version = "i6pR1zwp"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "gEYXa8hg"
+
+[[mods]]
+type = "modrinth"
+id = "enhanced-groups"
+version = "YXLv3lWE"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat-radio"
+version = "8laViGRS"
+
+[[mods]]
+type = "modrinth"
+id = "fabrictailor"
+version = "MNgY2xFj"
