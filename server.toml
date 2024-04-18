@@ -8,6 +8,7 @@ installer = "latest"
 
 [variables]
 PORT = "25565"
+MOTD = ":3"
 
 [launcher]
 eula_args = true
