@@ -7,7 +7,6 @@ loader = "latest"
 installer = "latest"
 
 [variables]
-MOTD = ":3"
 PORT = "25565"
 
 [launcher]
@@ -299,6 +298,11 @@ version = "4FqvobxB"
 type = "modrinth"
 id = "styled-chat"
 version = "7dmapSQA"
+
+[[mods]]
+type = "modrinth"
+id = "gravestones"
+version = "Uw9uAQaY"
 
 [markdown]
 files = ["README.md"]
