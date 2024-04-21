@@ -304,9 +304,14 @@ type = "modrinth"
 id = "gravestones"
 version = "Uw9uAQaY"
 
+[[mods]]
+type = "modrinth"
+id = "gravestones-fix"
+version = "vJzsnLh1"
+
 [markdown]
 files = ["README.md"]
-auto_update = false
+auto_update = true
 
 [options]
 upload_to_mclogs = false
