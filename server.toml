@@ -309,6 +309,46 @@ type = "modrinth"
 id = "gravestones-fix"
 version = "vJzsnLh1"
 
+[[mods]]
+type = "modrinth"
+id = "rei"
+version = "t2f2DBjB"
+
+[[mods]]
+type = "modrinth"
+id = "estrogen"
+version = "Fbz77g1I"
+
+[[mods]]
+type = "modrinth"
+id = "resourceful-lib"
+version = "eHrhVCDK"
+
+[[mods]]
+type = "modrinth"
+id = "botarium"
+version = "5a8eybLl"
+
+[[mods]]
+type = "modrinth"
+id = "valkyrien-skies"
+version = "wDYLclLS"
+
+[[mods]]
+type = "modrinth"
+id = "trinkets"
+version = "AHxQGtuC"
+
+[[mods]]
+type = "modrinth"
+id = "create-clockwork"
+version = "EvNWNIMY"
+
+[[mods]]
+type = "modrinth"
+id = "cc-vs"
+version = "c7b3Rnp5"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
