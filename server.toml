@@ -331,11 +331,6 @@ version = "5a8eybLl"
 
 [[mods]]
 type = "modrinth"
-id = "valkyrien-skies"
-version = "wDYLclLS"
-
-[[mods]]
-type = "modrinth"
 id = "trinkets"
 version = "AHxQGtuC"
 
@@ -343,11 +338,6 @@ version = "AHxQGtuC"
 type = "modrinth"
 id = "create-clockwork"
 version = "EvNWNIMY"
-
-[[mods]]
-type = "modrinth"
-id = "cc-vs"
-version = "c7b3Rnp5"
 
 [markdown]
 files = ["README.md"]
